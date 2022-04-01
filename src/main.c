@@ -6,6 +6,6 @@ int main() {
 
     gerarMatriz();
 
-    printf("teste git");
+    printf("TESTE 3");
 
 }
