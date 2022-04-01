@@ -6,6 +6,6 @@ int main() {
 
     gerarMatriz();
 
-    printf("TESTE 3");
+    printf("TESTE 4");
 
 }
