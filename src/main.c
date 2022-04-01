@@ -2,10 +2,6 @@
 
 int main() {
 
-    printf("\nteste main.c");
-
     gerarMatriz();
-
-    printf("TESTE 4");
 
 }
