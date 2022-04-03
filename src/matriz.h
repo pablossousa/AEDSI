@@ -7,7 +7,7 @@
 #include <time.h>
 
 
-#define TAM 4
+#define TAM 3
 
 void gerarMatriz();
 void percorrerMatriz();
