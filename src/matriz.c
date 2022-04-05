@@ -85,7 +85,7 @@ void percorrerMatriz() {
             //}
         }
     }
-
+a
     printf("\nSoma: %d", soma);
 
 }
