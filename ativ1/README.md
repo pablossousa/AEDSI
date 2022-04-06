@@ -18,7 +18,9 @@
 
 <img src="tela.png">
 
-Perguntas:
+<h3>Resolução</h3>
+
+<h3>Perguntas</h3>
 
 1 - Há mais de uma maneira de resolver esse problema?
 <p>Sim, há outras maneiras como por exemplo fazer uma lógica para checar os cantos da matriz e o centro</p>
