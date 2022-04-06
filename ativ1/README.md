@@ -20,9 +20,10 @@
 
 Perguntas:
 
-1) Há mais de uma maneira de resolver esse problema ?
-<p>Sim, há...</p>
+1 - Há mais de uma maneira de resolver esse problema?
+<p>Sim, há outras maneiras como por exemplo fazer uma lógica para checar os cantos da matriz e o centro</p>
 
-2) Há algoritmos em literatura que resolvam esse problema ?
+2 - Há algoritmos em literatura que resolvam esse problema?
+Sim, quicksort é um exemplo.
 
-3) Pode existir mais de um caminho cujo valor total é o maximo?
+3 - Pode existir mais de um caminho cujo valor total é o maximo?
