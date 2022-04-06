@@ -29,4 +29,4 @@
 <p>Sim, quicksort é um exemplo.</p>
 
 3 - Pode existir mais de um caminho cujo valor total é o maximo?
-<p>Sim, pois pode haver uma ramificação quando houver dois números iguais nas casas em volta do número atual que um "for" está percorrendo e o algoritmo pode escolher qualquer lado. Logo o resultado será diferente.</p>
+<p>Sim, pois pode haver uma ramificação quando houver dois números iguais nas casas em volta do número atual que um <em>for</em> está percorrendo e o algoritmo pode escolher qualquer lado. Logo o resultado será diferente.</p>
