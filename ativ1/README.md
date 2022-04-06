@@ -21,6 +21,7 @@
 Perguntas:
 
 1) Há mais de uma maneira de resolver esse problema ?
+Sim, há...
 
 2) Há algoritmos em literatura que resolvam esse problema ?
 
