@@ -24,6 +24,6 @@ Perguntas:
 <p>Sim, há outras maneiras como por exemplo fazer uma lógica para checar os cantos da matriz e o centro</p>
 
 2 - Há algoritmos em literatura que resolvam esse problema?
-Sim, quicksort é um exemplo.
+<p>Sim, quicksort é um exemplo.</p>
 
 3 - Pode existir mais de um caminho cujo valor total é o maximo?
