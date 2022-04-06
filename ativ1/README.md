@@ -16,6 +16,8 @@
 
 6) Andando na matriz conforme as regras acima, qual o maior caminho do início até o final, sabendo-se que a soma das posições representa o tamanho do caminho.</p>
 
+<img src="tela.png">
+
 Perguntas:
 
 1) Há mais de uma maneira de resolver esse problema ?
