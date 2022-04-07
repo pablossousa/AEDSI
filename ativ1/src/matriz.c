@@ -45,7 +45,7 @@ void percorrerMatriz() {
 
             if (mat[TAM-1][TAM-1] == -1) {
                 printf("\nSoma: %d", soma);
-                return 0;
+                exit(0);
             }
 
             if (i == TAM - 1) {
@@ -66,7 +66,7 @@ void percorrerMatriz() {
                 }
 
                 printf("\nSoma: %d", soma);
-                return 0;
+                exit(0);
             }
                 
             if (mat[i][j + 1] > mat[i][j - 1] && mat[i][j + 1] > mat[i + 1][j] && mat[i][j + 1] != -1) {
