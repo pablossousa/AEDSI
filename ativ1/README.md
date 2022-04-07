@@ -19,6 +19,7 @@
 <img src="tela.png">
 
 <h3>Resolução</h3>
+A resolução usada neste problema foi uma que verifica qual a maior posição a partir do primeiro elemento da matriz, sendo que neste momento só podem ser maiores os valores da direita e baixo do primeiro elemento. A partir daí o algoritmo verifica as três possíveis posições que podem haver valores maiores, sendo 
 
 <h3>Perguntas</h3>
 
