@@ -3,6 +3,8 @@
 int main() {
 
     gerarMatriz();
+    gerarVetor();
     percorrerMatriz();
+    valoresInverso();
 
 }
