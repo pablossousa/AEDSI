@@ -6,10 +6,11 @@
 #include <stdbool.h>
 #include <time.h>
 
-#define TAM 4
+#define TAM 3
 
 void tamanhoMatriz();
 void gerarMatriz();
 void percorrerMatriz();
+void valoresInverso();
 
 #endif
